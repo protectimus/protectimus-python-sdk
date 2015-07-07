@@ -1,21 +1,24 @@
 protectimus-python-sdk
 ======================
 <div style="text-align: justify;">
-This is an API-client on Python to easily integrate Protectimus two-factor authentication into your project. 
 
-Two-factor authentication from Protectimus based on one-time passwords (OTP) - passwords that are valid for only one authentication session.
+This is an API-client on Python to integrate Protectimus two-factor authentication into your project with no effort.
 
-To integrate Protectimus into your project, you can use these two methods:<br/>
-1) Integration using the API, directly or with help of auxilary libraries like this one.<br/>
-2) Integration using the IFrame Widget for user authentication. 
+Two-factor authentication from Protectimus is based on one-time passwords (OTP) - passwords that are valid for only one authentication session.
 
-Independently of the way you have choosed, please start integration from reading this page: https://www.protectimus.com/for-developers. It contains a lot of important information about how the system works and what you have to do to integrate OTP into your system.
+To integrate Protectimus into your project, you can use these two methods:
 
-Our <a href="https://www.protectimus.com/materials">materials</a> page can be interested too. Among other things our <a href="https://www.protectimus.com/images/pdf/Protectimus_API_manual_en.pdf">API documentation</a> can be found there. It can helps you better understand what exactly each method do and how to operate with all that stuff.
+<ol>
+<li>Integration using the API, directly or with the help of auxiliary libraries, like this one.</li>
+<li>Integration using the IFrame Widget for user authentication.</li>
+</ol>
 
-If you will have any questions - feel free to contact us: support@protectimus.com<br/>
+Independently of the way you have chosen, please, start integration from reading this page: https://www.protectimus.com/for-developers. It contains a lot of important information about how the system works and what you have to do to integrate OTP into your system.
+
+Our <a href="https://www.protectimus.com/materials">materials</a> page can be interesting too. Among other things, our <a href="https://www.protectimus.com/images/pdf/Protectimus_API_manual_en.pdf">API documentation</a> can be found there. It can help you to understand better what exactly each method does, and how to operate with all that stuff.
+
+If you will have any questions - feel free to contact us: support@protectimus.com
 Also, you can learn more about Protectimus at our web-site: https://www.protectimus.com
 
 Good Luck! We hope you will enjoy it!
-
 <div>
